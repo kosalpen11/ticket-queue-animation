@@ -1,5 +1,7 @@
 # Ticket Queue Animation
 
+<img src="screenshot/screenshot.png" width="500" height="300" alt="Ticket Queue Animation Screenshot">
+
 ## Overview
 This Swift project utilizes Lottie to create a dynamic ticket queue animation, ideal for iOS applications requiring visually appealing interactive elements.
 
