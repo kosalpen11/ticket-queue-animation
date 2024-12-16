@@ -1,5 +1,7 @@
 # Ticket Queue Animation
 
+![Ticket Queue Animation Screenshot](https://github.com/kosalpen11/ticket-queue-animation/blob/main/screenshoot/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-16%20at%2014.19.44.png)
+
 ## Overview
 This Swift project utilizes Lottie to create a dynamic ticket queue animation, ideal for iOS applications requiring visually appealing interactive elements.
 
