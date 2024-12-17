@@ -1,8 +1,7 @@
 //
 //  TicketQueueViewController.swift
-//  Live
 //
-//  Created by Kosal Pen on 10/9/24.
+//  Created by Kosal Pen on 16/12/24.
 //
 
 import UIKit

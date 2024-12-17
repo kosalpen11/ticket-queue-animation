@@ -14,9 +14,22 @@
 		44ADBF852D0FE24D00158B46 /* TicketQueueAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicketQueueAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		44ADBFF02D1029C700158B46 /* Exceptions for "TicketQueueAnimation" folder in "TicketQueueAnimation" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 44ADBF842D0FE24D00158B46 /* TicketQueueAnimation */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		44ADBF872D0FE24D00158B46 /* TicketQueueAnimation */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				44ADBFF02D1029C700158B46 /* Exceptions for "TicketQueueAnimation" folder in "TicketQueueAnimation" target */,
+			);
 			path = TicketQueueAnimation;
 			sourceTree = "<group>";
 		};
